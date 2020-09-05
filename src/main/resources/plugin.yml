@@ -1,0 +1,5 @@
+name: Soup
+version: 1.0-SNAPSHOT
+author: Scifi9902
+description: Basic soup addon
+main: me.scifi.soup.Soup
